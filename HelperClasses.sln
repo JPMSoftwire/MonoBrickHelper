@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperClasses", "HelperClasses\HelperClasses.csproj", "{C63DB5FA-9BD2-4828-8B69-625909FC4758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63DB5FA-9BD2-4828-8B69-625909FC4758}.Debug|x86.ActiveCfg = Debug|x86
+		{C63DB5FA-9BD2-4828-8B69-625909FC4758}.Debug|x86.Build.0 = Debug|x86
+		{C63DB5FA-9BD2-4828-8B69-625909FC4758}.Release|x86.ActiveCfg = Release|x86
+		{C63DB5FA-9BD2-4828-8B69-625909FC4758}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HelperClasses\HelperClasses.csproj
+	EndGlobalSection
+EndGlobal
