@@ -7,7 +7,7 @@ using MonoBrickFirmware.Movement;
 using MonoBrickFirmware.Sensors;
 using System.Threading;
 
-namespace MonoBrickHelloWorld
+namespace MonoBrickHelper
 {
 	class MainClass
 	{

@@ -6,7 +6,7 @@ using MonoBrickFirmware.Display;
 using MonoBrickFirmware.Movement;
 using System.Threading;
 
-namespace MonoBrickHelloWorld
+namespace MonoBrickHelper
 {
 	public class TankDriver
 	{
